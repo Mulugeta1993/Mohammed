@@ -1,0 +1,2 @@
+I didn't choose IntelliJ IDEA because I could be better in this IDE. When I took Java Programming 1, I used IntelliJ IDEA,
+ but I am not perfect for this platform.
